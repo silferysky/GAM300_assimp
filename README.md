@@ -1,0 +1,1 @@
+# GAM300_assimp
